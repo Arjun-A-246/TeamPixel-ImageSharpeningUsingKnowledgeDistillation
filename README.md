@@ -1,22 +1,22 @@
 # 📸 Pixel: Image Sharpening Using Knowledge Distillation  
 ### ✨ Project Overview
 
-This project introduces a groundbreaking framework that brings crystal-clear image quality to real-time applications. We’ve successfully engineered a lightweight and highly efficient **“student” model** that learns from a powerful **“teacher” network** using an innovative **knowledge distillation** approach.  
+This project introduces a cutting-edge framework that improves image quality for real-time applications. We’ve successfully developed a lightweight and efficient **“student” model** that learns from a robust **“teacher” network** using an innovative **knowledge distillation** approach.
 
-The result is a **blazingly fast deblurring tool** that transforms blurry visuals into sharp, high-definition images instantly. This solution is perfectly optimized for demanding applications like **live video conferencing, autonomous navigation, and surveillance**, delivering exceptional performance even on devices with limited processing power.
+This solution is designed for demanding applications like **live video conferencing, autonomous navigation, and surveillance**, offering reliable performance even on devices with limited processing power.
 
 ---
 
 ## ✅ Outcomes
 
-- **Exceptional Performance on Demand**  
-  Our lightweight student model achieves outstanding image quality, scoring an impressive **28.77 dB** on the PSNR metric and **0.8310** in SSIM. This demonstrates its powerful ability to restore intricate details and preserve structural accuracy.
+- **Reliable Performance on Demand**
+Our lightweight student model delivers solid image quality, achieving a **28.77 dB** on the PSNR metric and **0.8310** in SSIM. This reflects its capability to restore key details and maintain structural accuracy with consistent performance.
 
-- **Efficient and Powerful**  
-  The student model brilliantly mirrors the performance of the much larger teacher model (PSNR: **28.82 dB**, SSIM: **0.8322**), proving our knowledge distillation strategy is both highly effective and incredibly efficient. It achieves this with only **3 residual blocks** compared to the teacher’s **8**, showcasing a massive reduction in complexity without sacrificing quality.
+- **Efficient and Effective**
+The student model closely mirrors the performance of the larger teacher model (PSNR: **28.82 dB**, SSIM: **0.8322**), highlighting the effectiveness of our knowledge distillation strategy. It achieves this with just **3 residual blocks** compared to the teacher’s **8**, demonstrating a significant reduction in complexity while maintaining strong quality.
 
-- **Dramatic Visual Transformation**  
-  We have achieved a stunning improvement in image clarity, turning significantly degraded inputs (PSNR: **24.84 dB**) into beautifully restored, sharp outputs.
+- **Significant Visual Enhancement**
+We’ve achieved a marked improvement in image clarity, turning highly degraded inputs (PSNR: **24.84 dB**) into sharper, more vibrant outputs with noticeable detail restoration.
 
 - **Ready for Real-World Deployment**  
   By designing a model that is both compact and fast, we’ve created a solution that is primed for seamless integration into **mobile and edge computing** environments.
