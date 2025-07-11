@@ -59,6 +59,9 @@ The potential for this technology is limitless. We envision a future where:
 - **Transforming Live Video**  
   This technology will be extended to provide **real-time video deblurring**, revolutionizing the quality and clarity of **live streaming, telemedicine, and online collaboration** worldwide.
 
+
+
+
 ---
 
 ## 👥 The Innovators: Team Pixel
